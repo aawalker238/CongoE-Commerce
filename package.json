@@ -1,0 +1,36 @@
+{
+  "name": "congo",
+  "version": "1.0.0",
+  "description": "e-commerce app",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "connect-mongo": "^1.1.0",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.4.1",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.13.4",
+    "express-flash": "0.0.2",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.3",
+    "morgan": "^1.6.1",
+    "nodemon": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aawalker238/CongoE-Commerce.git"
+  },
+  "author": "Anthony Austin-Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aawalker238/CongoE-Commerce/issues"
+  },
+  "homepage": "https://github.com/aawalker238/CongoE-Commerce#readme"
+}
